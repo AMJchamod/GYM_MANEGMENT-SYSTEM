@@ -1,0 +1,308 @@
+2023-08-31 21:27:31 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 10580
+2023-08-31 21:27:31 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 7204
+202203-082-33-10 8-2311: 27:3221 :02 7[:N3o2t e0]  I[nNnootDeB]:  InnoMDuBt:e xMeust eaxneds  rawn_dl orcwk_sl oucskes  Wuisned oWwisn dionwtse rilnotcekreldo cfkuendc tfiuonncst
+ions
+22002233--0088--3311  2211::2277::3322  00  [[NoNtoet]e ]I nInnonDoBD:B :U sUesse se veevnetn tm umtuetxeexse
+s
+22002233--0088--3311  2211::2277::3322  00  [[NNoottee]]  IInnnnooDDBB::  CCoommpprreesssseedd  ttaabblleess  uussee  zzlliibb  11..22..1122
+
+22002233--0088--313 12 1:221:72:73:23 2 00  [[NNoottee]]  IInnnnooDDBB::  NNuummbbeerr  ooff  ppooolosls:: 1 
+1
+22002233--0088--3311  2211::2277::3322  00  [[NNoottee]]  IInnnnooDDBB::  UUssiinngg  SSSSEE22  ccrrcc3322  iinnssttrruuccttiioonnss
+
+2023-08-31 21:27:32 0 [Note] InnoDB: Initializing buf2fe0r2 3p-o0o8l,- 3t1o t21a:l2 7s:i3z2e  0=  [1N6oMt,e ]i nInsntaonDcBe:s  I= n1i,t icalhiuznikn gs ibzuef f=e r1 6pMo
+ol, total size = 16M, instances = 1, chunk size = 16M
+2022032-30-80-83-13 12 12:12:7:2372: 302  [0 N[oNtotee]]  IInnnnooDDBB::  CCoommpplleetteedd  iinniittiiaalliizzatiaotino no f obufff ebruf fepr opoooll
+
+2023-08-31 21:27:32 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:27:32 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:27:32 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=300288
+2023-08-31 21:27:33 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-08-31 21:27:34 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-08-31 21:27:34 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-08-31 21:27:34 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-08-31 21:27:34 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2023-08-31 21:27:34 0 [Note] InnoDB: Waiting for purge to start
+2023-08-31 21:27:34 0 [Note] InnoDB: 10.4.28 started; log sequence number 300297; transaction id 170
+2023-08-31 21:27:34 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2023-08-31 21:27:34 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-08-31 21:27:34 0 [Note] InnoDB: Buffer pool(s) load completed at 230831 21:27:34
+2023-08-31 21:27:34 0 [Note] Server socket created on IP: '::'.
+2023-08-31 21:27:42 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:27:42 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:27:52 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:27:52 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:28:02 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:28:02 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:28:12 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:28:12 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:28:22 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:28:22 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:28:32 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:28:32 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:28:42 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:28:42 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:28:52 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:28:52 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:29:02 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:29:02 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:29:12 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:29:12 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:29:22 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:29:22 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:29:32 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:29:32 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:29:42 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:29:42 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:29:52 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:29:52 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:30:02 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:30:02 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:30:12 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:30:12 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:30:22 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:30:22 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:30:32 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:30:32 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:30:42 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:30:42 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:30:52 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:30:52 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:31:02 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:31:02 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:31:12 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:31:12 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:31:22 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:31:22 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:31:32 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:31:32 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:31:42 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:31:42 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:31:52 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:31:52 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:32:02 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:32:02 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:32:12 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:32:12 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:32:22 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:32:22 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:32:32 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:32:32 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:32:42 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:32:42 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:32:52 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:32:52 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:33:02 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:33:02 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:33:12 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:33:12 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:33:22 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:33:22 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:33:32 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:33:32 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:33:42 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:33:42 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:33:52 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:33:52 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:34:02 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:34:02 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:34:12 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:34:12 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:34:22 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:34:22 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:34:32 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-08-31 21:34:32 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-08-31 21:34:42 0 [ERROR] InnoDB: Operating system error number 2 in a file operation.
+2023-08-31 21:34:42 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2023-08-31 21:34:42 0 [ERROR] InnoDB: File C:\xampp\mysql\data\ibdata1: 'open' returned OS error 71. Cannot continue operation
+230831 21:34:42 [ERROR] mysqld got exception 0x80000003 ;
+This could be because you hit a bug. It is also possible that this binary
+or one of the libraries it was linked against is corrupt, improperly built,
+or misconfigured. This error can also be caused by malfunctioning hardware.
+
+To report this bug, see https://mariadb.com/kb/en/reporting-bugs
+
+We will try our best to scrape up some info that will hopefully help
+diagnose the problem, but since we have already crashed, 
+something is definitely wrong and this may fail.
+
+Server version: 10.4.28-MariaDB source revision: c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7
+key_buffer_size=16777216
+read_buffer_size=262144
+max_used_connections=0
+max_threads=65537
+thread_count=0
+It is possible that mysqld could use up to 
+key_buffer_size + (read_buffer_size + sort_buffer_size)*max_threads = 20302 K  bytes of memory
+Hope that's ok; if not, decrease some variables in the equation.
+
+Thread pointer: 0x0
+Attempting backtrace. You can use the following information to find out
+where mysqld died. If you see no messages after this, something went
+terribly wrong...
+mysqld.exe!my_parameter_handler()
+ucrtbase.dll!raise()
+ucrtbase.dll!abort()
+mysqld.exe!?_Assign_grow@?$_Hash_vec@V?$allocator@V?$_List_unchecked_iterator@V?$_List_val@U?$_List_simple_types@U?$pair@QEAU_iobuf@@PEAX@std@@@std@@@std@@@std@@@std@@@std@@QEAAX_KV?$_List_unchecked_iterator@V?$_List_val@U?$_List_simple_types@U?$pair@QEAU_iobuf@@PEAX@std@@@std@@@std@@@2@@Z()
+mysqld.exe!?_Assign_grow@?$_Hash_vec@V?$allocator@V?$_List_unchecked_iterator@V?$_List_val@U?$_List_simple_types@U?$pair@QEAU_iobuf@@PEAX@std@@@std@@@std@@@std@@@std@@@std@@QEAAX_KV?$_List_unchecked_iterator@V?$_List_val@U?$_List_simple_types@U?$pair@QEAU_iobuf@@PEAX@std@@@std@@@std@@@2@@Z()
+mysqld.exe!?_Assign_grow@?$_Hash_vec@V?$allocator@V?$_List_unchecked_iterator@V?$_List_val@U?$_List_simple_types@U?$pair@QEAU_iobuf@@PEAX@std@@@std@@@std@@@std@@@std@@@std@@QEAAX_KV?$_List_unchecked_iterator@V?$_List_val@U?$_List_simple_types@U?$pair@QEAU_iobuf@@PEAX@std@@@std@@@std@@@2@@Z()
+mysqld.exe!pthread_dummy()
+mysqld.exe!pthread_dummy()
+mysqld.exe!pthread_dummy()
+mysqld.exe!?_Xlen_string@std@@YAXXZ()
+mysqld.exe!?ha_initialize_handlerton@@YAHPEAUst_plugin_int@@@Z()
+mysqld.exe!?plugin_init@@YAHPEAHPEAPEADH@Z()
+mysqld.exe!?plugin_init@@YAHPEAHPEAPEADH@Z()
+mysqld.exe!?init_net_server_extension@@YAXPEAVTHD@@@Z()
+mysqld.exe!?win_main@@YAHHPEAPEAD@Z()
+mysqld.exe!?mysql_service@@YAXPEAX@Z()
+mysqld.exe!?mysqld_main@@YAHHPEAPEAD@Z()
+mysqld.exe!strxnmov()
+KERNEL32.DLL!BaseThreadInitThunk()
+ntdll.dll!RtlUserThreadStart()
+The manual page at https://mariadb.com/kb/en/how-to-produce-a-full-stack-trace-for-mysqld/ contains
+information that should help you find out what is causing the crash.
+Writing a core file at C:\xampp\mysql\data\
+Minidump written to C:\xampp\mysql\data\mysqld.dmp
+2023-08-31 22:00:57 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 12952
+2023-08-31 22:00:57 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-08-31 22:00:57 0 [Note] InnoDB: Uses event mutexes
+2023-08-31 22:00:57 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-08-31 22:00:57 0 [Note] InnoDB: Number of pools: 1
+2023-08-31 22:00:57 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-08-31 22:00:57 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-08-31 22:00:57 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-08-31 22:00:57 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=562404
+2023-08-31 22:00:57 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2023-08-31 22:00:57 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2023-08-31 22:00:57 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2023-08-31 22:00:57 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\fitnesshub1\product.ibd' OS error: 203
+2023-08-31 22:00:57 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2023-08-31 22:00:57 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2023-08-31 22:00:57 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``fitnesshub1`.`product``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2023-08-31 22:00:57 0 [Warning] InnoDB: Ignoring tablespace for `fitnesshub1`.`product` because it could not be opened.
+2023-08-31 22:00:57 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2023-08-31 22:00:57 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2023-08-31 22:00:57 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2023-08-31 22:00:57 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\fitnesshub1\test.ibd' OS error: 203
+2023-08-31 22:00:57 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2023-08-31 22:00:57 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2023-08-31 22:00:57 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``fitnesshub1`.`test``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2023-08-31 22:00:57 0 [Warning] InnoDB: Ignoring tablespace for `fitnesshub1`.`test` because it could not be opened.
+2023-08-31 22:00:57 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-08-31 22:00:57 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-08-31 22:00:57 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-08-31 22:00:57 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-08-31 22:00:57 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2023-08-31 22:00:57 0 [Note] InnoDB: Waiting for purge to start
+2023-08-31 22:00:57 0 [Note] InnoDB: 10.4.28 started; log sequence number 562413; transaction id 966
+2023-08-31 22:00:57 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2023-08-31 22:00:57 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-08-31 22:00:57 0 [Note] Server socket created on IP: '::'.
+2023-09-25 16:42:35 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 3068
+2023-09-25 16:42:36 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-09-25 16:42:36 0 [Note] InnoDB: Uses event mutexes
+2023-09-25 16:42:36 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-09-25 16:42:36 0 [Note] InnoDB: Number of pools: 1
+2023-09-25 16:42:36 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-09-25 16:42:36 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-09-25 16:42:36 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-09-25 16:42:36 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=570873
+2023-09-25 16:42:37 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2023-09-25 16:42:37 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2023-09-25 16:42:37 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2023-09-25 16:42:37 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\fitnesshub1\product.ibd' OS error: 203
+2023-09-25 16:42:37 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2023-09-25 16:42:37 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2023-09-25 16:42:37 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``fitnesshub1`.`product``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2023-09-25 16:42:37 0 [Warning] InnoDB: Ignoring tablespace for `fitnesshub1`.`product` because it could not be opened.
+2023-09-25 16:42:37 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2023-09-25 16:42:37 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2023-09-25 16:42:37 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2023-09-25 16:42:37 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\fitnesshub1\test.ibd' OS error: 203
+2023-09-25 16:42:37 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2023-09-25 16:42:37 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2023-09-25 16:42:37 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``fitnesshub1`.`test``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2023-09-25 16:42:37 0 [Warning] InnoDB: Ignoring tablespace for `fitnesshub1`.`test` because it could not be opened.
+2023-09-25 16:42:38 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-09-25 16:42:38 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-09-25 16:42:38 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-09-25 16:42:38 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-09-25 16:42:38 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2023-09-25 16:42:38 0 [Note] InnoDB: Waiting for purge to start
+2023-09-25 16:42:38 0 [Note] InnoDB: 10.4.28 started; log sequence number 570898; transaction id 1023
+2023-09-25 16:42:38 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2023-09-25 16:42:38 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-09-25 16:42:38 0 [Note] InnoDB: Buffer pool(s) load completed at 230925 16:42:38
+2023-09-25 16:42:39 0 [Note] Server socket created on IP: '::'.
+2023-09-25 20:05:20 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 13984
+2023-09-25 20:05:20 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-09-25 20:05:20 0 [Note] InnoDB: Uses event mutexes
+2023-09-25 20:05:20 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-09-25 20:05:20 0 [Note] InnoDB: Number of pools: 1
+2023-09-25 20:05:20 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-09-25 20:05:20 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-09-25 20:05:20 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-09-25 20:05:20 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=572294
+2023-09-25 20:05:21 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2023-09-25 20:05:21 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2023-09-25 20:05:21 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2023-09-25 20:05:21 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\fitnesshub1\product.ibd' OS error: 203
+2023-09-25 20:05:21 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2023-09-25 20:05:21 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2023-09-25 20:05:21 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``fitnesshub1`.`product``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2023-09-25 20:05:21 0 [Warning] InnoDB: Ignoring tablespace for `fitnesshub1`.`product` because it could not be opened.
+2023-09-25 20:05:21 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2023-09-25 20:05:21 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2023-09-25 20:05:21 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2023-09-25 20:05:21 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\fitnesshub1\test.ibd' OS error: 203
+2023-09-25 20:05:21 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2023-09-25 20:05:21 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2023-09-25 20:05:21 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``fitnesshub1`.`test``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2023-09-25 20:05:21 0 [Warning] InnoDB: Ignoring tablespace for `fitnesshub1`.`test` because it could not be opened.
+2023-09-25 20:05:21 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-09-25 20:05:21 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-09-25 20:05:21 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-09-25 20:05:21 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-09-25 20:05:21 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2023-09-25 20:05:21 0 [Note] InnoDB: Waiting for purge to start
+2023-09-25 20:05:21 0 [Note] InnoDB: 10.4.28 started; log sequence number 572303; transaction id 1056
+2023-09-25 20:05:21 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2023-09-25 20:05:21 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-09-25 20:05:21 0 [Note] Server socket created on IP: '::'.
+2023-09-26  8:02:41 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 14096
+2023-09-26  8:02:41 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-09-26  8:02:41 0 [Note] InnoDB: Uses event mutexes
+2023-09-26  8:02:41 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-09-26  8:02:41 0 [Note] InnoDB: Number of pools: 1
+2023-09-26  8:02:41 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-09-26  8:02:41 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-09-26  8:02:41 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-09-26  8:02:42 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=628578
+2023-09-26  8:02:42 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2023-09-26  8:02:42 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2023-09-26  8:02:42 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2023-09-26  8:02:42 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\fitnesshub1\product.ibd' OS error: 203
+2023-09-26  8:02:42 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2023-09-26  8:02:42 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2023-09-26  8:02:42 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``fitnesshub1`.`product``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2023-09-26  8:02:42 0 [Warning] InnoDB: Ignoring tablespace for `fitnesshub1`.`product` because it could not be opened.
+2023-09-26  8:02:42 0 [ERROR] InnoDB: Operating system error number 3 in a file operation.
+2023-09-26  8:02:42 0 [ERROR] InnoDB: The error means the system cannot find the path specified.
+2023-09-26  8:02:42 0 [ERROR] InnoDB: If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2023-09-26  8:02:42 0 [ERROR] InnoDB: Cannot open datafile for read-only: '.\fitnesshub1\test.ibd' OS error: 203
+2023-09-26  8:02:42 0 [ERROR] InnoDB: Operating system error number 203 in a file operation.
+2023-09-26  8:02:42 0 [Note] InnoDB: Some operating system error numbers are described at https://mariadb.com/kb/en/library/operating-system-error-codes/
+2023-09-26  8:02:42 0 [ERROR] InnoDB: Could not find a valid tablespace file for ``fitnesshub1`.`test``. Please refer to https://mariadb.com/kb/en/innodb-data-dictionary-troubleshooting/ for how to resolve the issue.
+2023-09-26  8:02:42 0 [Warning] InnoDB: Ignoring tablespace for `fitnesshub1`.`test` because it could not be opened.
+2023-09-26  8:02:43 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-09-26  8:02:43 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-09-26  8:02:43 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-09-26  8:02:43 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-09-26  8:02:43 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2023-09-26  8:02:43 0 [Note] InnoDB: Waiting for purge to start
+2023-09-26  8:02:43 0 [Note] InnoDB: 10.4.28 started; log sequence number 628587; transaction id 1275
+2023-09-26  8:02:43 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2023-09-26  8:02:43 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-09-26  8:02:43 0 [Note] InnoDB: Buffer pool(s) load completed at 230926  8:02:43
+2023-09-26  8:02:43 0 [Note] Server socket created on IP: '::'.
