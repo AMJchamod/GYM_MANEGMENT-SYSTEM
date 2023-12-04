@@ -20,6 +20,6 @@
  <P> *Xampp</P> 
   <h1>Getting stared</h1>
  <P>  1.Clone the repository </P>
- <P>  2.Database folder component copy to xampp/mysql/data</P>
+ <P>  2.Database folder component copy to xampp/mysql/data  and  downloud mysql j connecter 8.1.0 and copy inside the project file</P>
  <P>  3.Open the project in your preferred Java development environment</P>
  <P>  4.Build and run the application.</P>
